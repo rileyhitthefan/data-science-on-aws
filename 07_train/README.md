@@ -8,4 +8,4 @@
 | Evaluate Models |  [04](07_train/04_Evaluate_Model_Metrics.ipynb) 	|
 |  Intepret and Explain Model Predictions 	| [NLP](07_train/allennlp)	|
 | Detect Model Bias |  [05](07_train/05_Detect_Model_Bias_Adhoc.ipynb) [06](07_train/06_Detect_Model_Bias_Clarify.ipynb) [07](07_train/07_Explain_Model_SHAP_Clarify.ipynb)	|
-| More Training Options for BERT	| [PyTorch](07_train/pytorch) |
+| More Training Options for BERT	| [PyTorch](07_train/pytorch) [Java](07_train/java-bert)|
